@@ -1,29 +1,10 @@
 body
 {
     background-color: rgb(82, 128, 137);
-    /* Reset margins and padding */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-/* Ensure the body takes up the full height of the screen */
-html, body {
-    height: 100%;
-}
-
-/* Center the content */
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    height: 100%;
-    margin: 0;
-}
 
 }
+
+
 
     
-}
+
